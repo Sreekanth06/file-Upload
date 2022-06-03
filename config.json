@@ -1,0 +1,5 @@
+{
+    "config": {
+        "prod_db" : "mongodb+srv://Gorla_Sreekanth:9959978941@cluster0.tlitc.mongodb.net/fileupload?retryWrites=true&w=majority"
+    }
+}
